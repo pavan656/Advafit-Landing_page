@@ -16,8 +16,11 @@ Welcome to **Advafit**, a responsive and modern fitness club landing page. This 
 ## 📂 Folder Structure
 
 project/
+
 ├── index.html # Main HTML file
+
 ├── styles.css # Stylesheet
+
 └── assets/ # Images and logos used in the website
 
 
