@@ -39,13 +39,13 @@ project/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/advafit-landing-page.git
+git clone https://github.com/pavan656/Advafit-Landing_page.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd advafit-landing-page
+cd Advafit-Landing_pag
 ```
 
 3. Open index.html in your browser.
